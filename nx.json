@@ -48,5 +48,6 @@
       }
     }
   },
-  "defaultProject": "web"
+  "defaultProject": "web",
+  "plugins": ["@nxrs/cargo"]
 }
