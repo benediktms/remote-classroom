@@ -9,6 +9,9 @@
   },
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.11.1",
     "@nrwl/next": "15.3.3",
     "core-js": "^3.6.5",
     "next": "13.0.0",
@@ -26,6 +29,7 @@
     "@nrwl/react": "15.3.3",
     "@nrwl/web": "15.3.3",
     "@nrwl/workspace": "15.3.3",
+    "@nxrs/cargo": "^0.3.3",
     "@testing-library/react": "13.4.0",
     "@types/jest": "28.1.1",
     "@types/node": "16.11.7",
